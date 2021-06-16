@@ -1,7 +1,11 @@
 # Take A Hike
 ![License: ICL](https://img.shields.io/badge/License-ISC-blue.svg)
 
-This web application allows the user to view and save hikes in a chosen location. It uses MERN Stack (MongoDB, Express, React, Node), React.js, UIKit, Axios and Express.
+This web application allows the user to view and save hikes in a chosen location.
+
+Enter a city into the search bar and receive results of hikes in or near that location. Users have the option to signup/login to save hikes to their own dashboard for future reference.
+
+It uses MERN Stack (MongoDB, Express, React, Node), React.js, UIKit, Axios, and Express.
 
 ## Link to Deployed Application
 https://tranquil-scrubland-42356.herokuapp.com/
